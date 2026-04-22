@@ -16,7 +16,7 @@
 - [CrewAI Framework](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents
 - [CrewAI Documentation](https://docs.crewai.com/) - Official CrewAI documentation
 - [CrewAI Examples](https://github.com/crewAIInc/crewAI-examples) - Official example projects
-- [Learn Agentic AI with CrewAI](https://github.com/panaversity/learn-agentic-ai) - Broad CrewAI learning resources
+- [Learn Agentic AI with CrewAI](https://github.com/panaversity/learn-agentic-ai) - Broad CrewAI learning resources..
 
 #### **LangGraph - Advanced Agent Workflows**
 - [LangGraph](https://github.com/langchain-ai/langgraph) - Build stateful, multi-actor applications with LLMs
